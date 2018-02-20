@@ -28,6 +28,7 @@ h2{
 
 }
 .btn{
+	align-items: center;
 	color: black;
 	font-size: 18px;
 	font-family: 'EB Garamond', serif;
