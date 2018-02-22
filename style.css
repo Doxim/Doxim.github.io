@@ -70,5 +70,6 @@ hr{
 }
 
 .tiny{
-
+	text-align: center !important;
+	align-items: center;
 }
