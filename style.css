@@ -56,8 +56,8 @@ hr{
 	margin-bottom: 50px;
 }
 
-#mc_embed_signup form{
-	text-align: center;
+#mc_embed_signup form  {
+	text-align: center!important;
 }
 
 .part{
