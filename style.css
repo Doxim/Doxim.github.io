@@ -6,6 +6,7 @@ html{
 body{
 	background-image: url(dustin.jpg);
 	background-size: cover;	
+	background-position: center;
 	
 }
 
